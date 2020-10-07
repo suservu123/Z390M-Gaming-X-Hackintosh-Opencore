@@ -20,7 +20,9 @@ Only for Opencore (Opencore 0.6.2)
 
 # Bios
 F9g version:
-_Tweaker: +VT-d → Disabled
+_Tweaker: 
+
+          +VT-d → Disabled
           +Intel(R) Speed Shift Technology → Enabled
           +Energy Efficient Turbo → Enabled
           +Intel(R) Turbo Boost Technology → Enabled
@@ -31,8 +33,11 @@ _Tweaker: +VT-d → Disabled
             +C8 State Support → Enabled
             +C10 State Support → Enabled
             +Package C State limit → Auto
+            
 _Extreme Memory Profile(X.M.P.) → Profile 1
+
 _Advanced Memory Settings:
+
             +Memory Boot Mode → Disable Fast Boot (must) 
             +Memory Enhancement Settings → Enhanced Performance
 _Settings:
