@@ -36,12 +36,16 @@ _Advanced Memory Settings:
             +Memory Boot Mode → Disable Fast Boot (must) 
             +Memory Enhancement Settings → Enhanced Performance
 _Settings:
+
             +Platform Power:
+            
               +Platform Power Management → Disabled
               +AC Back → Always OFF
               +Power Loading → Enabled
               +RC6(Render Standby) → Enabled
+              
             +IO Ports:
+            
               +Initial Display Output → PCIe 1 Slot
               +Internal Graphics → Enabled
               +DVMT Pre-Allocated → 64M
@@ -50,12 +54,15 @@ _Settings:
               +Audio Controller → Enabled
               +Above 4G Decoding → Enabled
               +USB Configuration:
+              
                 +XHCI Hand-off → Enabled
                 +Legacy USB Support → Enabled
                 +USB Mass Storage Driver Support → Enabled
                 +Port 60/64 Emulation → Disabled
+                
               +Network Stack Configuration:
                 +Network Stack → Disabled
+                
               
        
 
